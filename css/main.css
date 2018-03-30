@@ -1,0 +1,45 @@
+html {
+  font-family: Merriweather, serif;
+}
+
+form {
+  border-color: #ccc;
+}
+
+.grey {
+  background-color: #f2f2f2;
+  border: 1px solid #666;
+  color: #333;
+  border-radius: 8px;
+}
+
+.red {
+  background-color: #f2bcbc;
+  border: 1px solid #b92828;
+  color: #991919;
+  border-radius: 8px;
+}
+
+.green {
+  background-color: #d1e0bf;
+  border: 1px solid #6b7e54;
+  color: #51603f;
+  border-radius: 8px;
+}
+
+.blue {
+  background-color: #d2d6f0;
+  border: 1px solid #1d38da;
+  color: #38448e;
+  border-radius: 8px;
+}
+
+.squares {
+  width: 10em;
+}
+
+td {
+  border-left: 1px solid #f2f2f2;
+  height: 10em;
+  width: 10em;
+}
